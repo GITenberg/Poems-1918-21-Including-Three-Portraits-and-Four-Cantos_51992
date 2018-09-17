@@ -1,5 +1,8 @@
 _repo: Poems-1918-21-Including-Three-Portraits-and-Four-Cantos_51992
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 51992-h/images/cover.jpg
 creator:
   author:
     agent_name: Pound, Ezra
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2637
     wikipedia: http://en.wikipedia.org/wiki/Ezra_Pound
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51992#Poems-1918-21-Including-Three-Portraits-and-Four-Cantos
 gutenberg_issued: '2016-05-03'
 gutenberg_type: Text
 identifiers:
